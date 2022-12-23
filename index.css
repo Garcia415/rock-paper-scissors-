@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+section{
+    text-align: center;
+    margin-bottom: 20px;
+}
+aside{
+    text-align: center;
+    margin-bottom: 20px;
+}
+h4{
+    margin-bottom: 5px;
+}
+button{
+    padding: 5px;
+}
+footer{
+    display: flex;
+    justify-content:space-around;
+    font-size: 1.5rem;
+}
+.reset{
+    margin-bottom: 10px;
+}
